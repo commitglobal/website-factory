@@ -108,7 +108,7 @@ We maintain two separate terraform repositories for Website Factory. To learn mo
 -   Request a new feature on GitHub.
 -   Vote for popular feature requests.
 -   File a bug in GitHub Issues.
--   Email us with other feedback contact@code4.ro
+-   Email us with other feedback contact@commitglobal.org
 
 ## License
 
