@@ -2,7 +2,9 @@
 
 [![GitHub contributors](https://img.shields.io/github/contributors/code4romania/website-factory.svg?style=for-the-badge)](https://github.com/code4romania/website-factory/graphs/contributors) [![GitHub last commit](https://img.shields.io/github/last-commit/code4romania/website-factory.svg?style=for-the-badge)](https://github.com/code4romania/website-factory/commits/master) [![License: MPL 2.0](https://img.shields.io/badge/license-MPL%202.0-brightgreen.svg?style=for-the-badge)](https://opensource.org/licenses/MPL-2.0)
 
-Code4ro presentation website
+Most NGOs don’t have a simple and easy to use solution for people without technical skills or a solution adapted to their specific needs. Website Factory: NGO allows any NGO to easily build a website that provides the main types of content that organizations need, solutions for reporting, fundraising and communication with target audiences, etc.
+
+Website Factory: NGO is a unique solution, developed as a unit, which can be reused by any organization. Thus, each association will have the opportunity to build a website containing essential and relevant information for good communication with donors and the general public. Made of simple, accessible modules that facilitate the publication of information, code of conduct, official documents, with annual report templates and integrated with online donation collection modules, this solution supports pro-bono the entire sector and help NGOs communicate more effectively, increasing their fundraising capacity.
 
 [Contributing](#contributing) | [Built with](#built-with) | [Development](#development) | [Deployment](#deployment) | [Feedback](#feedback) | [License](#license) | [About Commit Global](#about-commit-global)
 
